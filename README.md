@@ -13,6 +13,7 @@
 | Intermediate Prototype Mining Transformer for Few-Shot Semantic Segmentation | NeurIPS | [PDF](https://arxiv.org/abs/2210.06780)| [CODE](https://github.com/liuyuanwei98/ipmt) |
 | MSANet: Multi-Similarity and Attention Guidance for Boosting Few-Shot Segmentation | arXiv | [PDF](https://arxiv.org/abs/2206.09667) | [CODE](https://github.com/AIVResearch/MSANet) |
 | APANet: Adaptive Prototypes Alignment Network for Few-Shot Semantic Segmentation | IEEE TMM | [PDF](https://arxiv.org/abs/2111.12263) | - |
+| Beyond the Prototype: Divide-and-conquer Proxies for Few-shot Segmentation | IJCAI  | [PDF](https://arxiv.org/abs/2204.09903) | [CODE](https://github.com/chunbolang/DCP) |
 
 
 ## 2021
