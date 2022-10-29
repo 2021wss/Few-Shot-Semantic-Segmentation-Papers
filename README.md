@@ -8,6 +8,7 @@
 | Generalized Few-shot Semantic Segmentation | CVPR | [PDF](https://jiaya.me/papers/cvpr22_zhuotao.pdf) | [CODE](https://github.com/dvlab-research/GFS-Seg)
 | Integrative Few-Shot Learning for Classification and Segmentation | CVPR | [PDF](https://arxiv.org/abs/2203.15712) | [CODE](https://github.com/dahyun-kang/ifsl) |
 | Learning What Not to Segment: A New Perspective on Few-Shot Segmentation | CVPR | [PDF](https://arxiv.org/abs/2203.07615) | [CODE](https://github.com/chunbolang/BAM)|
+| Dynamic Prototype Convolution Network for Few-Shot Semantic Segmentation | CVPR  | [PDF](https://arxiv.org/abs/2204.10638) | - |
 | Learning Non-target Knowledge for Few-shot Semantic Segmentation | CVPR | [PDF](https://arxiv.org/abs/2205.04903) | [CODE](https://github.com/LIUYUANWEI98/NERTNet)|
 | Singular Value Fine-tuning: Few-shot Segmentation requires Few-parameters Fine-tuning | NeurIPS | [PDF](https://arxiv.org/abs/2206.06122)| - |
 | Intermediate Prototype Mining Transformer for Few-Shot Semantic Segmentation | NeurIPS | [PDF](https://arxiv.org/abs/2210.06780)| [CODE](https://github.com/liuyuanwei98/ipmt) |
