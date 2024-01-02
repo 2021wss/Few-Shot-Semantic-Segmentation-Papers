@@ -1,6 +1,5 @@
 # Few Shot Semantic Segmentation Papers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*NOTE:* If your paper is not in the list, plese feel free to [raise an issue](https://github.com/xiaomengyc/Few-Shot-Semantic-Segmentation-Papers/issues) or drop me an [e-mail](mailto:solli.zhang@gmail.com?subject=[GitHub]%fewshot%papers).
 ## 2023
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
