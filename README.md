@@ -1,4 +1,4 @@
-# Few Shot Semantic Segmentation Papers [![Rank](https://paperswithcode.com/task/few-shot-image-segmentation)]
+# Few Shot Semantic Segmentation Papers [[Rank](https://paperswithcode.com/task/few-shot-image-segmentation)]
 
 ## 2023
 | Title | Venue | PDF | CODE |
