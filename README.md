@@ -1,4 +1,4 @@
-# Few Shot Semantic Segmentation Papers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Few Shot Semantic Segmentation Papers [![Rank](https://paperswithcode.com/task/few-shot-image-segmentation)
 
 ## 2023
 | Title | Venue | PDF | CODE |
