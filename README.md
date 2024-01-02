@@ -1,6 +1,20 @@
 # Few Shot Semantic Segmentation Papers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 *NOTE:* If your paper is not in the list, plese feel free to [raise an issue](https://github.com/xiaomengyc/Few-Shot-Semantic-Segmentation-Papers/issues) or drop me an [e-mail](mailto:solli.zhang@gmail.com?subject=[GitHub]%fewshot%papers).
+## 2023
+| Title | Venue | PDF | CODE |
+| :-----|:-----:|:---:|:----:|
+| FECANet：Boosting Few-Shot Semantic Segmentation with Feature-Enhanced Context-Aware Network | TMM | [PDF](https://arxiv.org/pdf/2301.08160.pdf) | [CODE](https://github.com/NUST-Machine-Intelligence-Laboratory/FECANET) |
+| Few-shot Semantic Segmentation with Support-induced Graph Convolutional Network | BMVC | [PDF](https://arxiv.org/pdf/2301.03194v2.pdf) | - |
+| FPIseg：Iterative segmentation network based on feature pyramid for few-shot segmentation | IET IP  | [PDF](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/ipr2.12898) | - |
+| Hierarchical Dense Correlation Distillation for Few-Shot Segmentation | CVPR | [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Peng_Hierarchical_Dense_Correlation_Distillation_for_Few-Shot_Segmentation_CVPR_2023_paper.pdf) | [CODE](https://github.com/Pbihao/HDMNet)|
+| Masked Cross-image Encoding for Few-shot Segmentation | ICME | [PDF](https://arxiv.org/pdf/2308.11201.pdf)| - |
+| MIANet：Aggregating Unbiased Instance and General Information for Few-Shot Semantic Segmentation | CVPR | [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_MIANet_Aggregating_Unbiased_Instance_and_General_Information_for_Few-Shot_Semantic_CVPR_2023_paper.pdf)| [CODE](https://github.com/Aldrich2y/MIANet) |
+| Quaternion-valued Correlation Learning for Few-Shot Semantic Segmentation | TCSV | [PDF](https://arxiv.org/pdf/2305.07283.pdf) | [CODE](https://github.com/zwzheng98/QCLNet) |
+| SegGPT：Segmenting Everything In Context | ICCV | [PDF](https://arxiv.org/pdf/2304.03284.pdf) | [CODE](https://github.com/baaivision/Painter) |
+| Self-Calibrated Cross Attention Network for Few-Shot Segmentation | ICCV  | [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_Self-Calibrated_Cross_Attention_Network_for_Few-Shot_Segmentation_ICCV_2023_paper.pdf) | [CODE](https://github.com/Sam1224/SCCAN) |
+| Visual and Textual Prior Guided Mask Assemble for Few-Shot Segmentation and Beyond | arXiv  | [PDF](https://arxiv.org/pdf/2308.07539.pdf) | - |
+| DifFSS：Diffusion Model for Few-Shot Semantic Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2307.00773.pdf) | [CODE](https://github.com/TrinitialChan/DifFSS)
 
 ## 2022
 | Title | Venue | PDF | CODE |
