@@ -23,12 +23,12 @@
 | Learning What Not to Segment: A New Perspective on Few-Shot Segmentation | CVPR | [PDF](https://arxiv.org/abs/2203.07615) | [CODE](https://github.com/chunbolang/BAM)|
 | Dynamic Prototype Convolution Network for Few-Shot Semantic Segmentation | CVPR  | [PDF](https://arxiv.org/abs/2204.10638) | - |
 | Learning Non-target Knowledge for Few-shot Semantic Segmentation | CVPR | [PDF](https://arxiv.org/abs/2205.04903) | [CODE](https://github.com/LIUYUANWEI98/NERTNet)|
+| Self-Support Few-Shot Semantic Segmentation | ECCV  | [PDF](https://arxiv.org/abs/2207.11549) | [CODE](https://github.com/fanq15/ssp)  |
 | Singular Value Fine-tuning: Few-shot Segmentation requires Few-parameters Fine-tuning | NeurIPS | [PDF](https://arxiv.org/abs/2206.06122)| - |
 | Intermediate Prototype Mining Transformer for Few-Shot Semantic Segmentation | NeurIPS | [PDF](https://arxiv.org/abs/2210.06780)| [CODE](https://github.com/liuyuanwei98/ipmt) |
 | Beyond the Prototype: Divide-and-conquer Proxies for Few-shot Segmentation | IJCAI  | [PDF](https://arxiv.org/abs/2204.09903) | [CODE](https://github.com/chunbolang/DCP) |
 | CobNet: Cross Attention on Object and Background for Few-Shot Segmentation | ICPR  | [PDF](https://arxiv.org/abs/2210.11968) | - |
-| Self-Support Few-Shot Semantic Segmentation | ECCV  | [PDF](https://arxiv.org/abs/2207.11549) | [CODE](https://github.com/fanq15/ssp)  |
-| APANet: Adaptive Prototypes Alignment Network for Few-Shot Semantic Segmentation | IEEE TMM | [PDF](https://arxiv.org/abs/2111.12263) | - |
+| APANet: Adaptive Prototypes Alignment Network for Few-Shot Semantic Segmentation | TMM | [PDF](https://arxiv.org/abs/2111.12263) | - |
 | MSANet: Multi-Similarity and Attention Guidance for Boosting Few-Shot Segmentation | arXiv | [PDF](https://arxiv.org/abs/2206.09667) | [CODE](https://github.com/AIVResearch/MSANet) |
 
 ## 2021
